@@ -2,11 +2,16 @@
   "name": "mvalidate",
   "version": "1.0.0",
   "description": "移动端的验证控件",
-  "author":{
+  "authors":[{
       "name":"散崖",
       "email":"948061564@qq.com",
       "blog":"http://wnworld.com/"
-  },
+  },{
+    "name":"fuchao",
+      "email":"fuchao_pku@126.com",
+      "blog":"http://github.com/fuchao2012/blog/issues"
+  }
+  ],
   "devDependencies": {
     "grunt": "^0.4.5",
     "load-grunt-tasks": "~0.3.0",

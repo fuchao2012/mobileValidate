@@ -1,0 +1,23 @@
+{
+  "name": "mvalidate",
+  "description": "移动端的验证控件",
+  "main": "",
+  "authors": [
+    "fuchao"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "validate",
+    "for",
+    "mobile"
+  ],
+  "homepage": "https://github.com/fuchao2012/mobileValidate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "demo"
+  ]
+}
