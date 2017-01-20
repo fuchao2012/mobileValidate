@@ -1,14 +1,15 @@
 {
   "name": "mvalidate",
-  "description": "移动端的验证控件",
+  "description": "validate for mobile",
   "main": "",
   "authors": [
-    "fuchao"
+    "fuchao",
+    "efri-yang"
   ],
   "license": "MIT",
   "keywords": [
     "validate",
-    "for",
+    "form",
     "mobile"
   ],
   "homepage": "https://github.com/fuchao2012/mobileValidate",
